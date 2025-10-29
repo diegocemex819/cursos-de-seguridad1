@@ -1,0 +1,7 @@
+{
+  "name": "Panel de Iniciativas de Seguridad",
+  "description": "An interactive dashboard to explore security and anti-fraud initiatives for operator courses and unit verifications, built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
